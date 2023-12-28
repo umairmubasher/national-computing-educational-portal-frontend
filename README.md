@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Setup
+
+### Tools Required:
+
+npm Package Manager, visual studio code
+
+### Tech Stack:
+
+React JS, Redux, Node JS
+
+### Instructions:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+1. Simply open the terminal at the root directory of the project and run the command `npm install` to install dependancies and required packages for the project.
+2. Make sure to have the required environment variable files at the root directory as well. Two files are needed. `.env.development` for development builds and `.env.production` for production builds. Please see the `.env.example` file for the required variables.
 
 ## Available Scripts
 
